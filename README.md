@@ -1,4 +1,4 @@
 # sayan-first
 The first git hub repository
 <br>
-Author- Sayan Dey
+Author- Sayan (Sandipta)
